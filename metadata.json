@@ -1,0 +1,5 @@
+{
+  "name": "ERPapp - MicroERP PWA",
+  "description": "A lightweight, offline-capable MicroERP for small businesses with integrated accounting, finance, and administrative management.",
+  "requestFramePermissions": []
+}
